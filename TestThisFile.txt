@@ -5,4 +5,8 @@ Third test
 4.1 test
 5.1 test
 5.2 test
+<<<<<<< HEAD
 6.2 test
+=======
+6.1 test
+>>>>>>> d84974b23b3fd6f1e034ebbeb5c9d98d5b6437fa
