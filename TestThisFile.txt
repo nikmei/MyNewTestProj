@@ -10,4 +10,8 @@ Third test
 =======
 6.1 test
 >>>>>>> d84974b23b3fd6f1e034ebbeb5c9d98d5b6437fa
+<<<<<<< HEAD
 7.2 test
+=======
+7.1 test
+>>>>>>> e826ce74acd47c98d875dc7429979b2fa6438ead
